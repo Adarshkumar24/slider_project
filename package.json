@@ -1,7 +1,31 @@
 {
-  "name": "testimonial",
-  "version": "0.1.0",
+  "name": "modern-user-registration-form",
+  "version": "1.0.0",
+  "description": "A beautiful, responsive user registration form built with React and Tailwind CSS featuring glassmorphism design and smooth animations",
   "private": true,
+  "homepage": "https://adarshkumar24.github.io/slider_project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adarshkumar24/slider_project.git"
+  },
+  "author": {
+    "name": "Adarsh Pradhan",
+    "email": "adarsh@example.com",
+    "url": "https://github.com/Adarshkumar24"
+  },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "form",
+    "glassmorphism",
+    "modern-ui",
+    "responsive",
+    "animation",
+    "registration-form",
+    "frontend",
+    "javascript"
+  ],
+  "license": "MIT",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

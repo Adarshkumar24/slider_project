@@ -2,7 +2,7 @@
 
 A beautiful, responsive user registration form built with React and Tailwind CSS featuring glassmorphism design, smooth animations, and an excellent user experience.
 
-![Project Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=Beautiful+Form+UI)
+![Project Preview](./src/page.png)
 
 ## ✨ Features
 
